@@ -42,3 +42,4 @@ Screen shot
 structure
 ------------
 ![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/4.PNG)
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/5.PNG)
