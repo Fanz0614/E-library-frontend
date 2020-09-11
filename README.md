@@ -35,4 +35,77 @@ PS:All mock data can be found in Public/API
 
 Screen shot
 -----------
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/1.PNG)
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/2.PNG)
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/3.PNG)
 
+structure
+------------
+│  App.js                         
+│  index.js                       
+│  style.js                       
+├─store   
+|      index.js                  
+|      reducer.js                 
+|
+├─common                     
+│  ├─header                       
+│  │  │  index.js                
+│  │  │
+│  │  └─stroe                     
+│  │          actionCreators.js            
+│  │          reducer.js         
+│  │
+│  └─Statics                   
+│      │               
+│      │
+│      ├─logo.png       
+│      │
+│      └─iconfont                   
+│              iconfont.eot
+│              iconfont.js
+│              iconfont.svg
+│              iconfont.ttf
+|              iconfont.woff
+│
+├─pages                         
+│  │
+│  ├─detail                       
+│  │  │  index.js                            
+│  │  │  style.js
+│  │  │
+│  │  └─store
+│  │          actionCreators.js
+│  │          reducer.js
+│  │
+│  ├─login                        
+│  │  │  index.js
+│  │  │  style.js
+│  │  │
+│  │  └─store
+│  │          actionCreators.js
+│  │          reducer.js
+│  │
+│  └─home                      
+│     | index.js
+|     | style.js
+|     |
+|     | components
+|     |           List.js
+|     |           Recommend.js
+|     |           Writer.js
+|     |
+|     | store
+|     |      actioncreators.js
+|     |      reducer.js
+│
+└─public        
+      |
+      |
+      |API
+         body.json
+         changelist.json
+         detail.json
+         headerList.json
+         login.json
+         
