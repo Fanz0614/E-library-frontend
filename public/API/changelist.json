@@ -1,0 +1,39 @@
+{
+    "success":true,
+    "data":{
+        "articlelist":[{
+            "id":5,
+            "title":"Creativity:How to Unlock Your Hidden Creative Genius",
+            "desc":"This page pulls together my most essential information about creativity. I’ll share how creativity works, how to find your hidden creative genius...",
+            "imgurl":"https://73v3u36iopz178i0z3a33g7d-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/boost-creativity-in-eLearning.png" 
+        },{
+            "id":6,
+            "title":"Continuous Improvement:How It Works and How to Master It",
+            "desc":"Let's define continuous improvement. Continuous improvement is a dedication to making small changes and improvements every day...",
+            "imgurl":"https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/muda-mura-muri.png" 
+        },{
+            "id":7,
+            "title":"Deliberate Practice:What It Is and How to Use It",
+            "desc":"Deliberate practice refers to a special type of practice that is purposeful and systematic...",
+            "imgurl":"https://wpmedia.smartmusic.com/wp-content/uploads/2018/08/Gregg.jpg" 
+        },{
+            "id":8,
+            "title":"Goal Setting: A Scientific Guide to Setting and Achieving Goals",
+            "desc":"Goal setting is everywhere in our world. We set goals for our careers, our health...",
+            "imgurl":"https://www.currentconsulting.co.za/wp-content/uploads/2016/07/goal_setting.jpg" 
+        }],
+        "recommendlist":[{
+            "id":0,
+            "imgurl":"https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+        },{
+           "id":1,
+           "imgurl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+        },{
+            "id":2,
+            "imgurl":"http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+        },{
+            "id":3,
+            "imgurl":"https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+        }]
+    }
+}
