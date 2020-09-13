@@ -12,7 +12,7 @@ Technology stack
 | React-redux     | Easy to use Redux     |
 | Redux-thunk     | Let the store have the ability to receive functions for asynchronous data acquisition and complex logic     |
 | immutable.js     | Ensure the Redux state cannot be changed    |
-| react-router    | Ruiter    |
+| react-router    | Router    |
 | styled-components    | css module    |
 | react-transition-group    | css animation     |
 | react-loadable     | Implement asynchronous components     |
