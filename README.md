@@ -33,6 +33,10 @@ What I do
 5. Jump to article details(same article but different ajax request,need real API from backend)<br>
 PS:All mock data can be found in Public/API
 
+What I'm going to do
+--------------
+1. Add writer list including photo and name
+
 Screen shot
 -----------
 ![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/1.PNG)
